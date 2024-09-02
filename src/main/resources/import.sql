@@ -1,0 +1,10 @@
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Galaxy S21', 'Samsung', 128, 'Best Buy, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('iPhone 13', 'Apple', 256, 'Apple Store, Best Buy');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Pixel 6', 'Google', 128, 'Google Store, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Xperia 5 II', 'Sony', 128, 'Amazon, Best Buy');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('OnePlus 9', 'OnePlus', 256, 'OnePlus Store, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Redmi Note 10', 'Xiaomi', 128, 'AliExpress, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Moto G100', 'Motorola', 128, 'Best Buy, Walmart');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('P40 Pro', 'Huawei', 256, 'Huawei Store, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('Oppo Find X3 Pro', 'Oppo', 256, 'Oppo Store, Amazon');
+INSERT INTO celular (modelo, marca, memoria_gb, puntos_venta) VALUES ('V60 ThinQ', 'LG', 128, 'Best Buy, Amazon');
